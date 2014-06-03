@@ -1,0 +1,185 @@
+@charset "utf-8";
+/* CSS Document */
+
+#divfotoperfume1{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:200px; margin-top:10px; float:left;}
+#divdescripcion1{width:425px; height:200px; margin-left:10px; background-color:#3FF; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume1{float:left; width:425px; height:200px; margin-left:10px; background-color:#9FF; margin-top:10px; text-align:center;}
+#divperfume1{ width:1400; background-color:#39F;  margin-left:10px; height:230px;margin-left:10px;}
+center{margin-top:10px;}
+#divfotoperfume2{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:220px; margin-top:10px; float:left;}
+#divdescripcion2{width:425px; height:220px; margin-left:10px; background-color:#FC6; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume2{float:left; width:425px; height:220px; margin-left:10px; background-color:#FF9; margin-top:10px; text-align:center;}
+#divperfume2{ width:1400; background-color:#FC3;  margin-left:10px; height:240px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume3{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion3{width:425px; height:280px; margin-left:10px; background-color:#39F; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume3{float:left; width:425px; height:280px; margin-left:10px; background-color:#3CC; margin-top:10px; text-align:center;}
+#divperfume3{ width:1400; background-color:#33C;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume4{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:260px; margin-top:10px; float:left;}
+#divdescripcion4{width:425px; height:260px; margin-left:10px; background-color:#FC6; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume4{float:left; width:425px; height:260px; margin-left:10px; background-color:#FF9; margin-top:10px; text-align:center;}
+#divperfume4{ width:1400; background-color:#FC3;  margin-left:10px; height:280px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume5{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:220px; margin-top:10px; float:left;}
+#divdescripcion5{width:425px; height:220px; margin-left:10px; background-color:#C93; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume5{float:left; width:425px; height:220px; margin-left:10px; background-color:#C96; margin-top:10px; text-align:center;}
+#divperfume5{ width:1400; background-color:#930;  margin-left:10px; height:240px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume6{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion6{width:425px; height:280px; margin-left:10px; background-color:#999; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume6{float:left; width:425px; height:280px; margin-left:10px; background-color:#CCC; margin-top:10px; text-align:center;}
+#divperfume6{ width:1400; background-color:#333;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume7{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion7{width:425px; height:280px; margin-left:10px; background-color:#CF9; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume7{float:left; width:425px; height:280px; margin-left:10px; background-color:#CFC; margin-top:10px; text-align:center;}
+#divperfume7{ width:1400; background-color:#9C9;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume8{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion8{width:425px; height:280px; margin-left:10px; background-color:#999; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume8{float:left; width:425px; height:280px; margin-left:10px; background-color:#CCC; margin-top:10px; text-align:center;}
+#divperfume8{ width:1400; background-color:#333;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume9{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion9{width:425px; height:280px; margin-left:10px; background-color:#C96; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume9{float:left; width:425px; height:280px; margin-left:10px; background-color:#C99; margin-top:10px; text-align:center;}
+#divperfume9{ width:1400; background-color:#600;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume10{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion10{width:425px; height:280px; margin-left:10px; background-color:#F9C; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume10{float:left; width:425px; height:280px; margin-left:10px; background-color:#FCC; margin-top:10px; text-align:center;}
+#divperfume10{ width:1400; background-color:#000;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume11{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion11{width:425px; height:280px; margin-left:10px; background-color:#F9F; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume11{float:left; width:425px; height:280px; margin-left:10px; background-color:#FCF; margin-top:10px; text-align:center;}
+#divperfume11{ width:1400; background-color:#F09;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume12{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion12{width:425px; height:280px; margin-left:10px; background-color:#FCF; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume12{float:left; width:425px; height:280px; margin-left:10px; background-color:#F9F; margin-top:10px; text-align:center;}
+#divperfume12{ width:1400; background-color:#F6F;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume13{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion13{width:425px; height:280px; margin-left:10px; background-color:#FFC; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume13{float:left; width:425px; height:280px; margin-left:10px; background-color:#FFF; margin-top:10px; text-align:center;}
+#divperfume13{ width:1400; background-color:#C00;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume14{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion14{width:425px; height:280px; margin-left:10px; background-color:#FF9; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume14{float:left; width:425px; height:280px; margin-left:10px; background-color:#FFC; margin-top:10px; text-align:center;}
+#divperfume14{ width:1400; background-color:#FF6;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume15{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion15{width:425px; height:280px; margin-left:10px; background-color:#FCC; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume15{float:left; width:425px; height:280px; margin-left:10px; background-color:#FCF; margin-top:10px; text-align:center;}
+#divperfume15{ width:1400; background-color:#F99;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume16{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion16{width:425px; height:280px; margin-left:10px; background-color:#CF9; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume16{float:left; width:425px; height:280px; margin-left:10px; background-color:#CFC; margin-top:10px; text-align:center;}
+#divperfume16{ width:1400; background-color:#9F6;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume17{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion17{width:425px; height:280px; margin-left:10px; background-color:#FF9; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume17{float:left; width:425px; height:280px; margin-left:10px; background-color:#FFC; margin-top:10px; text-align:center;}
+#divperfume17{ width:1400; background-color:#FF6;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume18{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion18{width:425px; height:280px; margin-left:10px; background-color:#C9C; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume18{float:left; width:425px; height:280px; margin-left:10px; background-color:#C9F; margin-top:10px; text-align:center;}
+#divperfume18{ width:1400; background-color:#90C;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume19{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion19{width:425px; height:280px; margin-left:10px; background-color:#9FF; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume19{float:left; width:425px; height:280px; margin-left:10px; background-color:#CFF; margin-top:10px; text-align:center;}
+#divperfume19{ width:1400; background-color:#9CC;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume20{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion20{width:425px; height:280px; margin-left:10px; background-color:#C9F; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume20{float:left; width:425px; height:280px; margin-left:10px; background-color:#CCF; margin-top:10px; text-align:center;}
+#divperfume20{ width:1400; background-color:#C9C;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume21{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion21{width:425px; height:280px; margin-left:10px; background-color:#FCF; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume21{float:left; width:425px; height:280px; margin-left:10px; background-color:#FCC; margin-top:10px; text-align:center;}
+#divperfume21{ width:1400; background-color:#F99;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume22{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion22{width:425px; height:280px; margin-left:10px; background-color:#FCC; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume22{float:left; width:425px; height:280px; margin-left:10px; background-color:#FCF; margin-top:10px; text-align:center;}
+#divperfume22{ width:1400; background-color:#F39;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume23{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion23{width:425px; height:280px; margin-left:10px; background-color:#FC9; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume23{float:left; width:425px; height:280px; margin-left:10px; background-color:#FCC; margin-top:10px; text-align:center;}
+#divperfume23{ width:1400; background-color:#F30;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume24{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion24{width:425px; height:280px; margin-left:10px; background-color:#FF9; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume24{float:left; width:425px; height:280px; margin-left:10px; background-color:#FFC; margin-top:10px; text-align:center;}
+#divperfume24{ width:1400; background-color:#FF6;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume25{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion25{width:425px; height:280px; margin-left:10px; background-color:#FCC; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume25{float:left; width:425px; height:280px; margin-left:10px; background-color:#FCF; margin-top:10px; text-align:center;}
+#divperfume25{ width:1400; background-color:#F99;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume26{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion26{width:425px; height:280px; margin-left:10px; background-color:#FF9; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume26{float:left; width:425px; height:280px; margin-left:10px; background-color:#FFC; margin-top:10px; text-align:center;}
+#divperfume26{ width:1400; background-color:#FF6;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume27{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion27{width:425px; height:280px; margin-left:10px; background-color:#C9F; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume27{float:left; width:425px; height:280px; margin-left:10px; background-color:#CCF; margin-top:10px; text-align:center;}
+#divperfume27{ width:1400; background-color:#C9C;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume28{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion28{width:425px; height:280px; margin-left:10px; background-color:#9CF; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume28{float:left; width:425px; height:280px; margin-left:10px; background-color:#CFF; margin-top:10px; text-align:center;}
+#divperfume28{ width:1400; background-color:#9CC;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume29{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion29{width:425px; height:280px; margin-left:10px; background-color:#C96; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume29{float:left; width:425px; height:280px; margin-left:10px; background-color:#C99; margin-top:10px; text-align:center;}
+#divperfume29{ width:1400; background-color:#900;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume30{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion30{width:425px; height:280px; margin-left:10px; background-color:#999; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume30{float:left; width:425px; height:280px; margin-left:10px; background-color:#CCC; margin-top:10px; text-align:center;}
+#divperfume30{ width:1400; background-color:#000;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume31{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion31{width:425px; height:280px; margin-left:10px; background-color:#FF9; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume31{float:left; width:425px; height:280px; margin-left:10px; background-color:#FFC; margin-top:10px; text-align:center;}
+#divperfume31{ width:1400; background-color:#FF6;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume32{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion32{width:425px; height:280px; margin-left:10px; background-color:#C96; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume32{float:left; width:425px; height:280px; margin-left:10px; background-color:#C99; margin-top:10px; text-align:center;}
+#divperfume32{ width:1400; background-color:#900;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume33{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion33{width:425px; height:280px; margin-left:10px; background-color:#FC0; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume33{float:left; width:425px; height:280px; margin-left:10px; background-color:#FF0; margin-top:10px; text-align:center;}
+#divperfume33{ width:1400; background-color:#F90;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume34{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion34{width:425px; height:280px; margin-left:10px; background-color:#999; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume34{float:left; width:425px; height:280px; margin-left:10px; background-color:#CCC; margin-top:10px; text-align:center;}
+#divperfume34{ width:1400; background-color:#000;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume35{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion35{width:425px; height:280px; margin-left:10px; background-color:#C96; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume35{float:left; width:425px; height:280px; margin-left:10px; background-color:#FFC; margin-top:10px; text-align:center;}
+#divperfume35{ width:1400; background-color:#930;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+#divfotoperfume36{width:425px; background-color:#FFF; text-align:center; margin-left:10px; height:280px; margin-top:10px; float:left;}
+#divdescripcion36{width:425px; height:280px; margin-left:10px; background-color:#CCC; float:left; margin-top:10px; text-align:center;}
+#divprecioperfume36{float:left; width:425px; height:280px; margin-left:10px; background-color:#CCF; margin-top:10px; text-align:center;}
+#divperfume36{ width:1400; background-color:#003;  margin-left:10px; height:300px;margin-left:10px;}
+center{margin-top:10px}
+
+
